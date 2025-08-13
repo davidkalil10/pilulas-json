@@ -1,0 +1,241 @@
+{
+  "Boreal": {
+    "categoria_thumbnail": "https://i.ibb.co/0ySwP3vp/Boreal.png",
+    "videos": [
+      {
+        "Titulo": {
+          "pt": "Ajuste Lombar",
+          "en": "Lumbar Adjustment",
+          "es": "Ajuste Lumbar",
+          "fr": "Réglage Lombaire"
+        },
+        "Subtitulo": {
+          "pt": "Como ajustar a lombar para seu conforto",
+          "en": "How to adjust the lumbar support for your comfort",
+          "es": "Cómo ajustar el soporte lumbar para su comodidad",
+          "fr": "Comment régler le soutien lombaire pour votre confort"
+        },
+        "Tags": {
+          "pt": ["assento", "lombar", "bancos"],
+          "en": ["seat", "lumbar", "benches"],
+          "es": ["asiento", "lumbar", "bancos"],
+          "fr": ["siège", "lombaire", "banquettes"]
+        },
+        "URL": {
+          "pt": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%201.mp4",
+          "en": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%201.mp4",
+          "es": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%201.mp4",
+          "fr": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%201.mp4"
+        },
+        "thumbnail": "https://i.ibb.co/mrqgz5vN/Renault-Boreal.png",
+        "data_atualizacao": "31/07/2025"
+      },
+      {
+        "Titulo": {
+          "pt": "Ativando a massagem",
+          "en": "Activating the massage",
+          "es": "Activando el masaje",
+          "fr": "Activation du massage"
+        },
+        "Subtitulo": {
+          "pt": "Como utilizar a função massagem",
+          "en": "How to use the massage function",
+          "es": "Cómo utilizar la función de masaje",
+          "fr": "Comment utiliser la fonction massage"
+        },
+        "Tags": {
+          "pt": ["assento", "massagem", "conforto"],
+          "en": ["seat", "massage", "comfort"],
+          "es": ["asiento", "masaje", "comodidad"],
+          "fr": ["siège", "massage", "confort"]
+        },
+        "URL": {
+          "pt": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%202.mp4",
+          "en": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%202.mp4",
+          "es": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%202.mp4",
+          "fr": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%202.mp4"
+        },
+        "thumbnail": "https://i.ibb.co/mrqgz5vN/Renault-Boreal.png",
+        "data_atualizacao": "30/07/2025"
+      },
+      {
+        "Titulo": {
+          "pt": "Modo conforto",
+          "en": "Comfort mode",
+          "es": "Modo confort",
+          "fr": "Mode confort"
+        },
+        "Subtitulo": {
+          "pt": "Como ativar o modo conforto ao entrar ou sair do veículo",
+          "en": "How to activate comfort mode when entering or leaving the vehicle",
+          "es": "Cómo activar el modo confort al entrar o salir del vehículo",
+          "fr": "Comment activer le mode confort en entrant ou en sortant du véhicule"
+        },
+        "Tags": {
+          "pt": ["assento", "ajustes", "conforto"],
+          "en": ["seat", "settings", "comfort"],
+          "es": ["asiento", "ajustes", "comodidad"],
+          "fr": ["siège", "réglages", "confort"]
+        },
+        "URL": {
+          "pt": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%203.mp4",
+          "en": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%203.mp4",
+          "es": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%203.mp4",
+          "fr": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%203.mp4"
+        },
+        "thumbnail": "https://i.ibb.co/mrqgz5vN/Renault-Boreal.png",
+        "data_atualizacao": "30/06/2025"
+      }
+    ]
+  },
+  "Kardian": {
+    "categoria_thumbnail": "https://i.ibb.co/jbbPCMp/Kardian.png",
+    "videos": [
+      {
+        "Titulo": {
+          "pt": "Luz Ambiente",
+          "en": "Ambient Light",
+          "es": "Luz Ambiental",
+          "fr": "Lumière d'Ambiance"
+        },
+        "Subtitulo": {
+          "pt": "Como personalizar as luzes internas do seu carro",
+          "en": "How to customize your car's interior lights",
+          "es": "Cómo personalizar las luces interiores de tu coche",
+          "fr": "Comment personnaliser l'éclairage intérieur de votre voiture"
+        },
+        "Tags": {
+          "pt": ["luz ambiente", "cores", "personalização"],
+          "en": ["ambient light", "colors", "customization"],
+          "es": ["luz ambiental", "colores", "personalización"],
+          "fr": ["lumière d'ambiance", "couleurs", "personnalisation"]
+        },
+        "URL": {
+          "pt": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%204.mp4",
+          "en": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%204.mp4",
+          "es": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%204.mp4",
+          "fr": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%204.mp4"
+        },
+        "thumbnail": "https://i.ibb.co/KpdXnbb0/Renault-Kardian.webp",
+        "data_atualizacao": "15/07/2025"
+      },
+      {
+        "Titulo": {
+          "pt": "Conhecendo o AEBS",
+          "en": "Getting to know AEBS",
+          "es": "Conociendo el AEBS",
+          "fr": "Découvrir l'AEBS"
+        },
+        "Subtitulo": {
+          "pt": "Como ativar e se proteger com o ADAS AEBS",
+          "en": "How to activate and protect yourself with ADAS AEBS",
+          "es": "Cómo activarse y protegerse con ADAS AEBS",
+          "fr": "Comment activer et se protéger avec l'ADAS AEBS"
+        },
+        "Tags": {
+          "pt": ["ADAS", "segurança", "AEBS", "frenagem de emergência"],
+          "en": ["ADAS", "safety", "AEBS", "emergency braking"],
+          "es": ["ADAS", "seguridad", "AEBS", "frenado de emergencia"],
+          "fr": ["ADAS", "sécurité", "AEBS", "freinage d'urgence"]
+        },
+        "URL": {
+          "pt": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%205.mp4",
+          "en": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%205.mp4",
+          "es": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%205.mp4",
+          "fr": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%205.mp4"
+        },
+        "thumbnail": "https://i.ibb.co/KpdXnbb0/Renault-Kardian.webp",
+        "data_atualizacao": "16/07/2025"
+      }
+    ]
+  },
+  "New Koleos": {
+    "categoria_thumbnail": "https://i.ibb.co/tTKNZGv7/Grand-Koleos.png",
+    "videos": [
+      {
+        "Titulo": {
+          "pt": "Assistente de estacionamento",
+          "en": "Parking assistant",
+          "es": "Asistente de aparcamiento",
+          "fr": "Assistant de stationnement"
+        },
+        "Subtitulo": {
+          "pt": "Saiba como ativar e utilizar o assistente de estacionamento",
+          "en": "Learn how to activate and use the parking assistant",
+          "es": "Aprenda a activar y utilizar el asistente de aparcamiento",
+          "fr": "Apprenez à activer et à utiliser l'assistant de stationnement"
+        },
+        "Tags": {
+          "pt": ["assistente de estacionamento", "ADAS", "auxilio"],
+          "en": ["parking assistant", "ADAS", "help"],
+          "es": ["asistente de aparcamiento", "ADAS", "ayuda"],
+          "fr": ["assistant de stationnement", "ADAS", "aide"]
+        },
+        "URL": {
+          "pt": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%201.mp4",
+          "en": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%201.mp4",
+          "es": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%201.mp4",
+          "fr": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%201.mp4"
+        },
+        "thumbnail": "https://i.ibb.co/xqN2ys9Z/Renault-New-Koleos.png",
+        "data_atualizacao": "14/07/2025"
+      },
+      {
+        "Titulo": {
+          "pt": "Ajustando o teto solar",
+          "en": "Adjusting the sunroof",
+          "es": "Ajuste del techo solar",
+          "fr": "Réglage du toit ouvrant"
+        },
+        "Subtitulo": {
+          "pt": "Entenda todos os modos de ajustes disponíveis para o teto solar",
+          "en": "Understand all available adjustment modes for the sunroof",
+          "es": "Conozca todos los modos de ajuste disponibles para el techo solar",
+          "fr": "Comprendre tous les modes de réglage disponibles pour le toit ouvrant"
+        },
+        "Tags": {
+          "pt": ["conforto", "teto solar", "ajustes", "ativação teto solar"],
+          "en": ["comfort", "sunroof", "settings", "sunroof activation"],
+          "es": ["comodidad", "techo solar", "ajustes", "activación del techo solar"],
+          "fr": ["confort", "toit ouvrant", "réglages", "activation du toit ouvrant"]
+        },
+        "URL": {
+          "pt": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%202.mp4",
+          "en": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%202.mp4",
+          "es": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%202.mp4",
+          "fr": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%202.mp4"
+        },
+        "thumbnail": "https://i.ibb.co/xqN2ys9Z/Renault-New-Koleos.png",
+        "data_atualizacao": "16/06/2025"
+      },
+      {
+        "Titulo": {
+          "pt": "OK Google, me ensine sobre meu carro",
+          "en": "OK Google, teach me about my car",
+          "es": "OK Google, enséñame sobre mi coche",
+          "fr": "OK Google, apprends-moi sur ma voiture"
+        },
+        "Subtitulo": {
+          "pt": "Aprenda os principais comandos de voz disponíveis no seu Google assistente",
+          "en": "Learn the main voice commands available on your Google Assistant",
+          "es": "Aprende los principales comandos de voz disponibles en tu Asistente de Google",
+          "fr": "Apprenez les principales commandes vocales disponibles sur votre Assistant Google"
+        },
+        "Tags": {
+          "pt": ["GAS", "google", "comandos de voz", "assistente de voz"],
+          "en": ["GAS", "google", "voice commands", "voice assistant"],
+          "es": ["GAS", "google", "comandos de voz", "asistente de voz"],
+          "fr": ["GAS", "google", "commandes vocales", "assistant vocal"]
+        },
+        "URL": {
+          "pt": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%203.mp4",
+          "en": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%203.mp4",
+          "es": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%203.mp4",
+          "fr": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%203.mp4"
+        },
+        "thumbnail": "https://i.ibb.co/xqN2ys9Z/Renault-New-Koleos.png",
+        "data_atualizacao": "16/05/2025"
+      }
+    ]
+  }
+}
